@@ -1,0 +1,8 @@
+print("Gitlab")
+a=10
+b=5
+sum=a+b
+if(sum<=15)
+  print("valid inputs")
+else
+   print("invalid inputs")
